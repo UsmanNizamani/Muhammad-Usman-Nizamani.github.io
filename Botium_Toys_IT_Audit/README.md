@@ -31,7 +31,7 @@ Botium Toys is a growing U.S.-based toy company expanding its online presence. T
 |----------------------------------|------------------------------------------|
 | `README.md`                      | Project overview and explanation         |
 | `Controls_Compliance_Checklist.pdf` | Completed audit checklist               |
-| `Project_Overview.pdf` (optional) | Full description of the audit process   |
+| `Project_Overview.pdf`  | Full description of the audit process   |
 | `Cover_Image.png`                | Visual cover for the project             |
 | `Self_Assessment.md`             | 5-point self-review of the audit process |
 
