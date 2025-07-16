@@ -51,7 +51,7 @@ This project demonstrates:
 
 ## 📫 Contact
 
-- 🌐 LinkedIn: [linkedin.com/in/muhammad-usman](https://linkedin.com/in/muhammad-usman)
+- 🌐 LinkedIn: [linkedin.com/in/muhammad-usman](https://www.linkedin.com/in/muhammad-usman-b38949287/)
 - 📧 Email: usmannizamani00@gmail.com
 
 ---
