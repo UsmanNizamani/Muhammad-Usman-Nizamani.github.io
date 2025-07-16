@@ -1,6 +1,7 @@
 # 🛡️ Cybersecurity Portfolio – Muhammad Usman
 
 Hi! I’m Muhammad Usman — a responsible and honest cybersecurity enthusiast with strong teamwork and leadership skills.  
+
 I enjoy thinking differently in challenging situations and have a deep interest in cybersecurity.
 
 My goal is to help protect organizations by identifying risks, strengthening controls, and ensuring long-term security and stability.
