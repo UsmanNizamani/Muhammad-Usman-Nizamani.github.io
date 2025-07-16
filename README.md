@@ -5,4 +5,4 @@ This repository contains cybersecurity projects demonstrating my skills in risk 
 ## 🔐 Projects
 - **Botium Toys Internal Security Audit**  
   A full IT audit using the NIST Cybersecurity Framework.  
-  [View Project Folder ➡️](/botium-toys-audit)
+  [View Project Folder ➡️](/Botium_Toys_IT_Audit)
