@@ -36,16 +36,30 @@ This project demonstrates:
 
 🔗 [**View Project Folder ➡️**](./overthewire-bandit)
 
+
+### 🚨 ICMP DDoS Incident Response Report – NIST CSF Application
+
+A simulated incident response plan for a **realistic ICMP flood (DDoS) attack** against a multimedia company, resolved using the **NIST Cybersecurity Framework**.
+
+This project demonstrates:
+
+- ✅ Application of all 5 NIST CSF functions (Identify, Protect, Detect, Respond, Recover)  
+- ✅ Network security hardening (firewall configuration, ICMP filtering, IP spoofing detection)  
+- ✅ Real-world incident documentation and strategic recommendations  
+
+🔗 [**View Project Folder ➡️**](./ICMP_DDoS_NIST_Report)
+
 ---
 
-## 🧠 Skills Highlighted
+### 🧠 Skills Highlighted
 
 - Security Auditing (NIST CSF)  
 - Risk Identification & Scoring  
 - Control Assessment (Firewall, IDS, Encryption, etc.)  
 - GDPR / PCI DSS Compliance Review  
 - Linux Terminal Skills (file handling, permissions, scripting)  
-- Reporting & Documentation
+- Reporting & Documentation  
+- Incident Response Planning
 
 ---
 
