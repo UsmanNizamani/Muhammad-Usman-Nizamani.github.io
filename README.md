@@ -51,6 +51,19 @@ This project demonstrates:
 
 ---
 
+### 🧱 Vulnerability Assessment – Public Database Server (Shipping Company)
+
+A basic vulnerability assessment of a **publicly accessible MySQL database server** used by a fictional global shipping company.  
+This project demonstrates:
+
+- ✅ Threat identification and risk scoring using **NIST SP 800-30 Rev. 1**  
+- ✅ Qualitative analysis of insider threats, external attackers, and malware  
+- ✅ Remediation strategies using MFA, least privilege, and defense-in-depth  
+
+🔗 [**View Project Folder ➡️**](./vulnerability-assessment-shipping-db)
+
+---
+
 ### 🧠 Skills Highlighted
 
 - Security Auditing (NIST CSF)  
