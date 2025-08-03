@@ -64,6 +64,20 @@ This project demonstrates:
 
 ---
 
+### 📝 IP Allow List Updater – File Automation with Python
+
+A Python-based file parsing project to simulate real-world access control management.
+
+This project demonstrates:
+
+- ✅ Reading and modifying an IP allow list using Python  
+- ✅ File handling using `with open()`, `.read()`, `.write()`  
+- ✅ Automation of removing revoked or blocked IPs from a security policy  
+- ✅ Use of control flow (`for` loop, `.remove()`) and string/list methods  
+
+🔗 [**View Project Folder ➡️**](./Basic_automation_with_python)
+
+
 ### 🧠 Skills Highlighted
 
 - Security Auditing (NIST CSF)  
@@ -73,6 +87,7 @@ This project demonstrates:
 - Linux Terminal Skills (file handling, permissions, scripting)  
 - Reporting & Documentation  
 - Incident Response Planning
+- Python Scripting for Security Automation
 
 ---
 
